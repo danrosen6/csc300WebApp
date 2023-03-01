@@ -27,3 +27,5 @@ const newUserSchema = new mongoose.Schema(
 );
 
 module.exports = mongoose.model('users', newUserSchema)
+
+/////// example
